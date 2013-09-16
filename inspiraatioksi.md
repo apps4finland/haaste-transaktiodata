@@ -12,8 +12,8 @@ demoja tms.
 Sähköisestä kuitista on ollut viranomaisaloitteita, mutta miten
 ruohonjuuritasolta lähtien yksittäiset toimijat voisivat rakentaa parempaa
 maailmaa? Samalla voisi antaa suuntaa laajemmalle suomalaisen yhteiskunnan
-kehitykselle – Suomesta uudenlaisen digitaalisen maailman edelläkävijä!  
-Nyt uhkana on jäädä pahasti jälkeen dynaamisemmin toimivista maista…
+kehitykselle – Suomesta uudenlaisen digitaalisen maailman edelläkävijä! Nyt
+uhkana on jäädä pahasti jälkeen dynaamisemmin toimivista maista…
 
 OP-Pohjola on lanseerannut Pivo-mobiililompakon ensimmäisen version.
 Tavoitteenamme on kehittää Pivosta kaikkien suomalaisten älykäs digitaalinen
