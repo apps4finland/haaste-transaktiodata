@@ -24,7 +24,7 @@ pääsarjoissa. Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon.
 
 ## Haasteeseen liittyvät tapahtumat
 
-Ilmoittautuminen ja ohjelma avautuu myöhemmin.
+Ilmoittautuminen ja ohjelma (avautuu myöhemmin).
 
 ## Mitä voit tehdä seuraavaksi?
 
