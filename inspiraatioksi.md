@@ -19,8 +19,8 @@ OP-Pohjola on lanseerannut Pivo-mobiililompakon ensimmäisen version.
 Tavoitteenamme on kehittää Pivosta kaikkien suomalaisten älykäs digitaalinen
 mobiililompakko. 
 
-Kilpailutöiden ei oleteta kytkeytyvän suoraan Pivoon, vaan sen esittelyllä
-(ks. Hyödyllisiä linkkejä) haluamme kertoa, mikä on jo nyt mahdollista
+Kilpailutöiden ei oleteta kytkeytyvän suoraan [Pivoon](http://www.pivolompakko.fi/),
+vaan sen [esittelyllä]() haluamme kertoa, mikä on jo nyt mahdollista
 asiakkaillemme. Tästä ponnistamme eteenpäin kohti tulevaisuutta. Haluamme
 yhdessä etsiä mahdollisuuksia tuottaa arvoa kaikille suomalaisille kuluttajille
 ja kauppiaille - sekä ostajille että myyjille.
