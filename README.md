@@ -41,4 +41,4 @@ Ilmoittautuminen ja ohjelma (avautuu myöhemmin).
 ## Sisältö
 - data-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia
 - code-kansiosta löytyy esimerkkikoodia ja linkkejä teemaan liittyviin avoimen lähdekoodin projekteihin
-- Hyödyllisiä linkkejä esim. sparrausyhteisöihin ja datalähteisiin löytyy [linkkeja](https://github.com/apps4finland/haaste-transaktiodata/linkkeja)-tiedostosta
+- Hyödyllisiä linkkejä esim. sparrausyhteisöihin ja datalähteisiin löytyy [linkkeja](https://github.com/apps4finland/haaste-transaktiodata/blob/master/data/linkkeja.md)-tiedostosta
