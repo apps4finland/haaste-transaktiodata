@@ -24,7 +24,7 @@ pääsarjoissa. Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon.
 
 ## Haasteeseen liittyvät tapahtumat
 
-Ilmoittautuminen ja ohjelma (avautuu myöhemmin).
+* App4Finland & Apps4Pirkanmaa, 28.9, Uusi Tehdas, Tampere. Ilmoittautuminen ja ohjelma: https://okroadshowtampere.eventbrite.com/
 
 ## Mitä voit tehdä seuraavaksi?
 
