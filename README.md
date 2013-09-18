@@ -38,5 +38,5 @@ kisasta, voit aina ottaa yhteyttä kisan projektipäällikköön, jonka yhteysti
 tai aloita oma haasteen ratkaisuprojektisi GitHubissa.
 
 ## Haastekansion sisältö
-- [data](https://github.com/apps4finland/haaste-transaktiodata/tree/master/data)-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia sekä [hyödyllisiä linkkejä](https://github.com/apps4finland/haaste-hsl-poikkeustiedot/blob/master/data/linkkeja.md).
+- [data](https://github.com/apps4finland/haaste-transaktiodata/tree/master/data)-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia sekä [hyödyllisiä linkkejä](https://github.com/apps4finland/haaste-transaktiodata/blob/master/data/linkkeja.md).
 - [code](https://github.com/apps4finland/haaste-transaktiodata/tree/master/code)-kansiosta löytyy esimerkkikoodia ja linkkejä teemaan liittyviin avoimen lähdekoodin projekteihin
