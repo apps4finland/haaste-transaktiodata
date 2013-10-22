@@ -1,6 +1,6 @@
 ## Tässä kansiossa: kaikki tarpeellinen oman ostokäyttäytymisen ja kuittirumban järkeistämiseksi
 
-Tämä on Apps4Finland-kilpailun _Transaktiodata_ -haastetta varten koottu tukipaketti. 
+Tämä on Apps4Finland-kilpailun _Kuitit dataksi_ -haastetta varten koottu tukipaketti. 
 
 
 ## Haaste sinulle
