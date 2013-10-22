@@ -25,7 +25,8 @@ kisasta, voit aina ottaa yhteyttä kisan [projektipäällikköön](http://www.ap
 
 ## Haasteeseen liittyvät tapahtumat
 
-* App4Finland & Apps4Pirkanmaa, 28.9, Uusi Tehdas, Tampere. Ilmoittautuminen ja ohjelma: https://okroadshowtampere.eventbrite.com/
+* Katso Tapahtumat-otsikon alla [haasteen kotisivulta](http://www.apps4finland.fi/haaste/kuitit-dataksi/).
+
 
 ## Mitä voit tehdä seuraavaksi?
 
